@@ -1,7 +1,9 @@
+# JCBDABSD-001_Delta
 # Optimasi Kampanye Telemarketing Deposito
 
 Analisis data untuk mengevaluasi efisiensi kampanye telemarketing deposito berjangka. Project ini mencari pola penggunaan panggilan, mengidentifikasi kelompok nasabah yang lebih potensial, dan mensimulasikan aturan pembatasan panggilan untuk mengurangi aktivitas yang kurang efektif.
 
+Link tableau : https://public.tableau.com/app/profile/zafira.putri.suerman/viz/BankTelemarketingAnalysisDashboard/Overview
 ## Latar Belakang
 
 Kampanye telemarketing pada dataset Bank Marketing menghasilkan conversion rate yang relatif rendah dibandingkan total upaya panggilan. Analisis ini berfokus pada dua pertanyaan bisnis:
