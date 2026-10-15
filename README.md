@@ -132,7 +132,7 @@ Simulasi ini menggunakan data historis. Deposito yang tercatat setelah batas pan
    ```
 
 3. Simpan `bank-full.csv` di folder yang sama dengan notebook.
-4. Buka notebook `Final_Project_Telemarketing_Deposito (1).ipynb` melalui Jupyter Notebook.
+4. Buka notebook `Final_Project_Telemarketing_Deposito.ipynb` melalui Jupyter Notebook.
 5. Jalankan sel notebook secara berurutan untuk meninjau analisis, tabel, dan visualisasi.
 
 Notebook membaca file data menggunakan pemisah titik koma, sesuai format `bank-full.csv`.
