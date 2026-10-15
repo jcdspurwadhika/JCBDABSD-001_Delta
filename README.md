@@ -64,7 +64,7 @@ Notebook mengelompokkan nasabah menggunakan informasi yang tersedia sebelum pang
 | P3 | Tidak memiliki KPR maupun pinjaman pribadi, tetapi tidak memenuhi kriteria P2. |
 | P4 | Memiliki KPR atau pinjaman pribadi. |
 
-Jika nasabah memenuhi kriteria P1, kelompok tersebut menjadi prioritas utama.
+Jika nasabah memenuhi kriteria P1, kelompok tersebut menjadi prioritas utama. 
 
 ## Temuan Utama
 
